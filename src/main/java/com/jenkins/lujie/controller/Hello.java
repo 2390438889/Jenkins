@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class Hello {
     @RequestMapping("/hello")
     public String hello(){
-        return "11";
+        return "1122";
     }
 
 }
